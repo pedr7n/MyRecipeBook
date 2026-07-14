@@ -1,0 +1,11 @@
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\backend\MyRecipeBook.Application\bin\Debug\net10.0\MyRecipeBook.Application.deps.json
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\backend\MyRecipeBook.Application\bin\Debug\net10.0\MyRecipeBook.Application.dll
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\backend\MyRecipeBook.Application\bin\Debug\net10.0\MyRecipeBook.Application.pdb
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\backend\MyRecipeBook.Application\obj\Debug\net10.0\MyRecipeBook.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\backend\MyRecipeBook.Application\obj\Debug\net10.0\MyRecipeBook.Application.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\backend\MyRecipeBook.Application\obj\Debug\net10.0\MyRecipeBook.Application.AssemblyInfo.cs
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\backend\MyRecipeBook.Application\obj\Debug\net10.0\MyRecipeBook.Application.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\backend\MyRecipeBook.Application\obj\Debug\net10.0\MyRecipeBook.Application.dll
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\backend\MyRecipeBook.Application\obj\Debug\net10.0\refint\MyRecipeBook.Application.dll
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\backend\MyRecipeBook.Application\obj\Debug\net10.0\MyRecipeBook.Application.pdb
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\backend\MyRecipeBook.Application\obj\Debug\net10.0\ref\MyRecipeBook.Application.dll

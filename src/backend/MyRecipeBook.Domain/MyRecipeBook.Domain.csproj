@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\shared\MyRecipeBook.Communication\MyRecipeBook.Communication.csproj" />
+      <ProjectReference Include="..\..\shared\MyRecipeBook.Exception\MyRecipeBook.Exception.csproj" />
+      <ProjectReference Include="..\MyRecipeBook.Application\MyRecipeBook.Application.csproj" />
+    </ItemGroup>
+
+</Project>

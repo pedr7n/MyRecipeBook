@@ -1,0 +1,11 @@
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\shared\MyRecipeBook.Communication\bin\Debug\net10.0\MyRecipeBook.Communication.deps.json
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\shared\MyRecipeBook.Communication\bin\Debug\net10.0\MyRecipeBook.Communication.dll
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\shared\MyRecipeBook.Communication\bin\Debug\net10.0\MyRecipeBook.Communication.pdb
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\shared\MyRecipeBook.Communication\obj\Debug\net10.0\MyRecipeBook.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\shared\MyRecipeBook.Communication\obj\Debug\net10.0\MyRecipeBook.Communication.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\shared\MyRecipeBook.Communication\obj\Debug\net10.0\MyRecipeBook.Communication.AssemblyInfo.cs
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\shared\MyRecipeBook.Communication\obj\Debug\net10.0\MyRecipeBook.Communication.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\shared\MyRecipeBook.Communication\obj\Debug\net10.0\MyRecipeBook.Communication.dll
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\shared\MyRecipeBook.Communication\obj\Debug\net10.0\refint\MyRecipeBook.Communication.dll
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\shared\MyRecipeBook.Communication\obj\Debug\net10.0\MyRecipeBook.Communication.pdb
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\shared\MyRecipeBook.Communication\obj\Debug\net10.0\ref\MyRecipeBook.Communication.dll

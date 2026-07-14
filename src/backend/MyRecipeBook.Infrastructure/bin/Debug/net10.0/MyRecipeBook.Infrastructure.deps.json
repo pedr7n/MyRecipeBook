@@ -1,0 +1,83 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "MyRecipeBook.Infrastructure/1.0.0": {
+        "dependencies": {
+          "MyRecipeBook.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MyRecipeBook.Infrastructure.dll": {}
+        }
+      },
+      "MyRecipeBook.Application/1.0.0": {
+        "runtime": {
+          "MyRecipeBook.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyRecipeBook.Communication/1.0.0": {
+        "runtime": {
+          "MyRecipeBook.Communication.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyRecipeBook.Domain/1.0.0": {
+        "dependencies": {
+          "MyRecipeBook.Application": "1.0.0",
+          "MyRecipeBook.Communication": "1.0.0",
+          "MyRecipeBook.Exception": "1.0.0"
+        },
+        "runtime": {
+          "MyRecipeBook.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyRecipeBook.Exception/1.0.0": {
+        "runtime": {
+          "MyRecipeBook.Exception.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyRecipeBook.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyRecipeBook.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyRecipeBook.Communication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyRecipeBook.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyRecipeBook.Exception/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

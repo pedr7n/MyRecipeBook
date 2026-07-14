@@ -1,0 +1,11 @@
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\shared\MyRecipeBook.Exception\bin\Debug\net10.0\MyRecipeBook.Exception.deps.json
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\shared\MyRecipeBook.Exception\bin\Debug\net10.0\MyRecipeBook.Exception.dll
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\shared\MyRecipeBook.Exception\bin\Debug\net10.0\MyRecipeBook.Exception.pdb
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\shared\MyRecipeBook.Exception\obj\Debug\net10.0\MyRecipeBook.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\shared\MyRecipeBook.Exception\obj\Debug\net10.0\MyRecipeBook.Exception.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\shared\MyRecipeBook.Exception\obj\Debug\net10.0\MyRecipeBook.Exception.AssemblyInfo.cs
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\shared\MyRecipeBook.Exception\obj\Debug\net10.0\MyRecipeBook.Exception.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\shared\MyRecipeBook.Exception\obj\Debug\net10.0\MyRecipeBook.Exception.dll
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\shared\MyRecipeBook.Exception\obj\Debug\net10.0\refint\MyRecipeBook.Exception.dll
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\shared\MyRecipeBook.Exception\obj\Debug\net10.0\MyRecipeBook.Exception.pdb
+C:\Users\pedro\Desktop\Workspace\My-Projects\MyRecipeBook\src\shared\MyRecipeBook.Exception\obj\Debug\net10.0\ref\MyRecipeBook.Exception.dll
